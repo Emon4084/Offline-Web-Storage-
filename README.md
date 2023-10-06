@@ -24,4 +24,4 @@ Application using Local Storage, Session Storage, Indexed DB and Web SQL
 
 ## Getting Started
 1. Clone this repository in your local mechine
-   
+   git repo clone Emon4084/Offline-Web-Application
