@@ -3,3 +3,22 @@ An Offline Web Application allows us to save data in the user’s browser and ma
 apps or games work without a connection (for a certain period). By using offline Web
 Application here I store data for Web Storage. An Offline Web
 Application using Local Storage, Session Storage, Indexed DB and Web SQL
+
+##features
+-Local Storage: Store key-value pairs in the browser's Local Storage, persisting data across browser sessions.
+
+-Session Storage: Store data that is only available during a single page session, clearing when the user closes the tab or browser.
+
+-IndexedDB: Perform CRUD operations on structured data, providing a more advanced data storage mechanism.
+
+-Web SQL (Deprecated): For compatibility with older browsers, this project includes Web SQL as an option for data storage.
+
+##Technology_Used
+-HTML5: Creating the web page structure.
+-CSS3: Styling and layout.
+-Bootstrap: Responsive design and UI components.
+-JavaScript: Interacting with and manipulating storage mechanisms.
+-IndexedDB: Structured data storage.
+-Web SQL
+-Session storage
+-Local Storage
