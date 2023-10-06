@@ -25,4 +25,4 @@ Application using Local Storage, Session Storage, Indexed DB and Web SQL
 ## Getting Started
 1. Clone this repository in your local mechine
    
-   https://github.com/Emon4084/Offline-Web-Storage-Application_Ado.Net.git
+   https://github.com/Emon4084/Offline-Web-Storage-Application.git
